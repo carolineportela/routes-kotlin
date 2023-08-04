@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="title_activity_login_screen">loginScreen</string>
+    <string name="title_activity_menu_screen">MenuScreen</string>
+    <string name="title_activity_voltar_screen">VoltarScreen</string>
+    <string name="title_activity_pedidos_screen">PedidosScreen</string>
+</resources>
